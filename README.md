@@ -40,7 +40,7 @@ PS C:\Users\Maksym> cat tech-stack.json
 {
   "Core": ["C#", ".NET", "ASP.NET Core"],
   "Data": ["SQL", "Entity Framework"],
-  "Tools": ["Postman", "Docker", "Git"],
+  "Tools": ["Bruno", "Docker", "Git"],
   "Background": ["JavaScript", "Node.js"]
 }
 ```
