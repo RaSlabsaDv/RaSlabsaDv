@@ -8,11 +8,6 @@
   />
 
   <br/>
-
-  <h1 align="center" style="font-family: monospace; margin-bottom: 0;">
-    <code>builder.Services.AddSingleton&lt;Maksym&gt;();</code>
-  </h1>
-
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=22&duration=3000&pause=1000&color=FF8800&center=true&vCenter=true&width=500&lines=Aspiring+.NET+Backend+Developer;C%23+Enthusiast;Caffeine+Enjoyer;Cat+Lover+%F0%9F%90%B1" alt="Typing SVG" />
   </a>
