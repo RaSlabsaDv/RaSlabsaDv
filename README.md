@@ -1,13 +1,4 @@
 <div align="center">
-  <img 
-    src="header.jpg" 
-    width="100%" 
-    height="200px" 
-    alt="Header Image" 
-    style="object-fit: cover; border-radius: 10px;"
-  />
-
-  <br/>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=22&duration=3000&pause=1000&color=FF8800&center=true&vCenter=true&width=500&lines=Aspiring+.NET+Backend+Developer;C%23+Enthusiast;Caffeine+Enjoyer;Cat+Lover+%F0%9F%90%B1" alt="Typing SVG" />
   </a>
@@ -15,7 +6,7 @@
 
 ### 🚀 Developer Console
 
-```powershell
+```fish
 PS C:\Users\Maksym> dotnet run profile
 
 --- LOADING DEVELOPER PROFILE [████████████] 100% ---
