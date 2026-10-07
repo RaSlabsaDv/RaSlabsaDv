@@ -4,8 +4,6 @@
   </a>
 </div>
 
-### 🚀 Developer Console
-
 ```fish
 PS C:\Users\Maksym> dotnet run profile
 
