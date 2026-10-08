@@ -4,9 +4,7 @@
 
 <img src="assets/dream.jpg" width="100%" alt="" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Cormorant+Garamond&weight=600&size=24&duration=1500&pause=100000&color=E8E6E3&center=true&vCenter=true&width=400&height=40&lines=.NET+Developer" alt=".NET Developer" />
-
-<br></br>
+<img src="https://readme-typing-svg.herokuapp.com?font=Cormorant+Garamond&weight=600&size=24&duration=1500&pause=10000000&color=E8E6E3&center=true&vCenter=true&width=400&height=40&lines=.NET+Developer" alt=".NET Developer" />
 
 <a href="https://linkedin.com/in/максим-швороб-866b94372"><img src="https://img.shields.io/badge/LinkedIn-141a2e?style=flat-square&logo=linkedin&logoColor=A9C0E8" /></a>
 &nbsp;
